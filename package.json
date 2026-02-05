@@ -1,5 +1,5 @@
 {
-  "name": "sec",
+  "name": "analysis-pro",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -9,6 +9,8 @@
   "dependencies": {
     "next": "14.2.5",
     "react": "18.3.1",
-    "react-dom": "18.3.1"
+    "react-dom": "18.3.1",
+    "node-fetch": "^3.3.2",
+    "tiktok-live-connector": "^1.6.5"
   }
 }
